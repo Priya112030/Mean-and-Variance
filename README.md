@@ -1,6 +1,6 @@
-#  Exp 1: Mean and variance of a discrete  distribution
-# Name :priya.B
-# reference number:24900803
+# Exp 1: Mean and variance of a discrete  distribution
+# Name :Priya.B
+# Reference number:24900803
 # Date:21.09.2024
 # Aim : 
 
